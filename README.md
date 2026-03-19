@@ -1,2 +1,3 @@
-# auto-code-reviewer-ssak
-Automated issue comment bot repository
+# Auto Code Reviewer Ssak
+
+Automated issue comment bot repository.
